@@ -44,6 +44,8 @@ nav .logo {
   font-size: 22px;
   font-weight: bold;
   color: #FFD700;
+  padding-left:2px;
+  margin-left:2px;
 }
 
 nav ul {
@@ -280,6 +282,7 @@ footer a {
   height: 30px;
   opacity: 0.5;
 }
+
 
 
 
