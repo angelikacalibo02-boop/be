@@ -47,6 +47,11 @@ nav .logo {
   padding-left:2px;
   margin-left:2px;
 }
+.logo{
+  position:absolute;
+  top:10px;
+  left:10px;
+}
 
 nav ul {
   list-style: none;
@@ -282,6 +287,7 @@ footer a {
   height: 30px;
   opacity: 0.5;
 }
+
 
 
 
