@@ -44,7 +44,7 @@ nav .logo {
   font-size: 22px;
   font-weight: bold;
   color: #FFD700;
-  padding-left:2px;
+  
   margin-left:2px;
 }
 .logo{
@@ -263,30 +263,8 @@ footer a {
   
 }
 
-/* Custom Cursor */
-.cursor, .cursor2 {
-  position: fixed;
-  top: 0;
-  left: 0;
-  border-radius: 50%;
-  pointer-events: none;
-  z-index: 10000;
-  transform: translate(-50%, -50%);
-}
 
-.cursor {
-  background: #FFD700;
-  opacity: 0.7;
-  width: 15px;
-  height: 15px;
-}
 
-.cursor2 {
-  border: 2px solid #FFD700;
-  width: 30px;
-  height: 30px;
-  opacity: 0.5;
-}
 
 
 
