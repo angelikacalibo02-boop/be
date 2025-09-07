@@ -168,7 +168,7 @@ nav ul li a:hover {
   height: 250px;
   overflow: hidden;
   border-radius: 12px;
-  box-shadow: 0 40px 20px rgba(211, 208, 13, 0.795);
+  box-shadow: 0 40px 20px purle(211, 208, 13, 0.795);
 }
 
 .project-item img {
@@ -270,4 +270,5 @@ footer a {
   color: #cccccc;
   text-decoration: underline;
 }
+
 
