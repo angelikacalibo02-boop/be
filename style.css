@@ -248,13 +248,13 @@ nav ul li a:hover {
 
 .footer-nav ul li a {
   text-decoration: none;
-  color: #f4f4f4;
+  color: #FFD700;
   font-weight: 500;
   transition: color 0.3s;
 }
 
 .footer-nav ul li a:hover {
-  color: #FFD700;
+  color: white;
 }
 
 /* Footer */
@@ -270,3 +270,4 @@ footer a {
   color: #cccccc;
   text-decoration: underline;
 }
+
